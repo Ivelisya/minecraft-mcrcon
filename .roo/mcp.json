@@ -6,6 +6,9 @@
         "-y",
         "@modelcontextprotocol/server-filesystem",
         "F:/Github"
+      ],
+      "alwaysAllow": [
+        "move_file"
       ]
     }
   }

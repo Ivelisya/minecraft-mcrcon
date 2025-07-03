@@ -1,0 +1,116 @@
+{
+    "items": [
+        { "name": "苹果", "id": "minecraft:apple" },
+        { "name": "金苹果", "id": "minecraft:golden_apple" },
+        { "name": "附魔金苹果", "id": "minecraft:enchanted_golden_apple" },
+        { "name": "面包", "id": "minecraft:bread" },
+        { "name": "牛排", "id": "minecraft:cooked_beef" },
+        { "name": "钻石", "id": "minecraft:diamond" },
+        { "name": "钻石剑", "id": "minecraft:diamond_sword" },
+        { "name": "钻石镐", "id": "minecraft:diamond_pickaxe" },
+        { "name": "钻石斧", "id": "minecraft:diamond_axe" },
+        { "name": "钻石锹", "id": "minecraft:diamond_shovel" },
+        { "name": "钻石锄", "id": "minecraft:diamond_hoe" },
+        { "name": "铁锭", "id": "minecraft:iron_ingot" },
+        { "name": "铁剑", "id": "minecraft:iron_sword" },
+        { "name": "铁镐", "id": "minecraft:iron_pickaxe" },
+        { "name": "金锭", "id": "minecraft:gold_ingot" },
+        { "name": "金剑", "id": "minecraft:golden_sword" },
+        { "name": "金镐", "id": "minecraft:golden_pickaxe" },
+        { "name": "石剑", "id": "minecraft:stone_sword" },
+        { "name": "木剑", "id": "minecraft:wooden_sword" },
+        { "name": "弓", "id": "minecraft:bow" },
+        { "name": "箭", "id": "minecraft:arrow" },
+        { "name": "盔甲架", "id": "minecraft:armor_stand" },
+        { "name": "床", "id": "minecraft:red_bed" },
+        { "name": "工作台", "id": "minecraft:crafting_table" },
+        { "name": "熔炉", "id": "minecraft:furnace" },
+        { "name": "箱子", "id": "minecraft:chest" },
+        { "name": "末影箱", "id": "minecraft:ender_chest" },
+        { "name": "火把", "id": "minecraft:torch" },
+        { "name": "石头", "id": "minecraft:stone" },
+        { "name": "圆石", "id": "minecraft:cobblestone" },
+        { "name": "玻璃", "id": "minecraft:glass" },
+        { "name": "羊毛", "id": "minecraft:white_wool" },
+        { "name": "泥土", "id": "minecraft:dirt" },
+        { "name": "草方块", "id": "minecraft:grass_block" },
+        { "name": "橡木木板", "id": "minecraft:oak_planks" },
+        { "name": "白桦木板", "id": "minecraft:birch_planks" },
+        { "name": "云杉木板", "id": "minecraft:spruce_planks" },
+        { "name": "丛林木板", "id": "minecraft:jungle_planks" },
+        { "name": "深色橡木木板", "id": "minecraft:dark_oak_planks" },
+        { "name": "金合欢木板", "id": "minecraft:acacia_planks" },
+        { "name": "下界合金锭", "id": "minecraft:netherite_ingot" },
+        { "name": "下界合金剑", "id": "minecraft:netherite_sword" },
+        { "name": "下界合金镐", "id": "minecraft:netherite_pickaxe" },
+        { "name": "鞘翅", "id": "minecraft:elytra" },
+        { "name": "三叉戟", "id": "minecraft:trident" },
+        { "name": "红石", "id": "minecraft:redstone" },
+        { "name": "红石火把", "id": "minecraft:redstone_torch" },
+        { "name": "拉杆", "id": "minecraft:lever" },
+        { "name": "按钮", "id": "minecraft:stone_button" },
+        { "name": "压力板", "id": "minecraft:stone_pressure_plate" },
+        { "name": "活塞", "id": "minecraft:piston" },
+        { "name": "粘性活塞", "id": "minecraft:sticky_piston" },
+        { "name": "红石中继器", "id": "minecraft:repeater" },
+        { "name": "红石比较器", "id": "minecraft:comparator" },
+        { "name": "侦测器", "id": "minecraft:observer" },
+        { "name": "投掷器", "id": "minecraft:dropper" },
+        { "name": "发射器", "id": "minecraft:dispenser" },
+        { "name": "漏斗", "id": "minecraft:hopper" },
+        { "name": "铁桶", "id": "minecraft:bucket" },
+        { "name": "水桶", "id": "minecraft:water_bucket" },
+        { "name": "岩浆桶", "id": "minecraft:lava_bucket" },
+        { "name": "末影珍珠", "id": "minecraft:ender_pearl" },
+        { "name": "末影之眼", "id": "minecraft:eye_of_ender" },
+        { "name": "火药", "id": "minecraft:gunpowder" },
+        { "name": "烈焰棒", "id": "minecraft:blaze_rod" },
+        { "name": "绿宝石", "id": "minecraft:emerald" },
+        { "name": "书", "id": "minecraft:book" },
+        { "name": "附魔台", "id": "minecraft:enchanting_table" },
+        { "name": "铁砧", "id": "minecraft:anvil" },
+        { "name": "信标", "id": "minecraft:beacon" },
+        { "name": "潮涌核心", "id": "minecraft:conduit" },
+        { "name": "命名牌", "id": "minecraft:name_tag" },
+        { "name": "鞍", "id": "minecraft:saddle" },
+        { "name": "钻石马铠", "id": "minecraft:diamond_horse_armor" },
+        {
+            "name": "治疗药水",
+            "id": "minecraft:potion{Potion:\"minecraft:healing\"}"
+        },
+        {
+            "name": "力量药水",
+            "id": "minecraft:potion{Potion:\"minecraft:strength\"}"
+        },
+        {
+            "name": "再生药水",
+            "id": "minecraft:potion{Potion:\"minecraft:regeneration\"}"
+        },
+        {
+            "name": "抗火药水",
+            "id": "minecraft:potion{Potion:\"minecraft:fire_resistance\"}"
+        },
+        {
+            "name": "水下呼吸药水",
+            "id": "minecraft:potion{Potion:\"minecraft:water_breathing\"}"
+        },
+        {
+            "name": "夜视药水",
+            "id": "minecraft:potion{Potion:\"minecraft:night_vision\"}"
+        },
+        {
+            "name": "迅捷药水",
+            "id": "minecraft:potion{Potion:\"minecraft:swiftness\"}"
+        },
+        {
+            "name": "缓降药水",
+            "id": "minecraft:potion{Potion:\"minecraft:slow_falling\"}"
+        },
+        {
+            "name": "神龟药水",
+            "id": "minecraft:potion{Potion:\"minecraft:turtle_master\"}"
+        },
+        { "name": "命令方块", "id": "minecraft:command_block" },
+        { "name": "屏障", "id": "minecraft:barrier" }
+    ]
+}

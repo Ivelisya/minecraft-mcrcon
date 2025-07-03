@@ -1,0 +1,6 @@
+nicegui
+mcrcon
+sqlalchemy
+pydantic[email]
+python-dotenv
+apscheduler
