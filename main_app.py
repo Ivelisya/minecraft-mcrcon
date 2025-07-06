@@ -34,6 +34,7 @@ def execute_command_with_feedback(command: str):
         return
     response = rcon_manager.command(command)
     
+    
     fail_keywords = ['failed', 'nothing', 'unknown', 'incorrect', 'not found', 'invalid']
     if any(keyword in response.lower() for keyword in fail_keywords):
         ui.notify(f"命令可能已失败: {response}", type='negative', position='bottom', multi_line=True)
