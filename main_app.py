@@ -13,6 +13,7 @@ def load_items():
     """从 data/items.json 安全地加载物品数据"""
     items_map = {}
     
+    
     try:
         data_path = Path(__file__).parent / 'data/items.json'
         with open(data_path, 'r', encoding='utf-8') as f:
