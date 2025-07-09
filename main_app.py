@@ -18,6 +18,7 @@ def load_items():
         data_path = Path(__file__).parent / 'data/items.json'
         with open(data_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
+            
             # 创建中文名到ID的映射
             if 'items' in data:
                 items_map = {item['name']: item['id'] for item in data['items']}
