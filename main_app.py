@@ -15,6 +15,7 @@ def load_items():
     items_map = {}
     
     
+    
     try:
         data_path = Path(__file__).parent / 'data/items.json'
         with open(data_path, 'r', encoding='utf-8') as f:
