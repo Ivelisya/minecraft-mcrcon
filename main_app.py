@@ -10,6 +10,7 @@ rcon_manager.ui_update_callbacks = {}
 
 # --- 数据加载 ---
 def load_items():
+    
     """从 data/items.json 安全地加载物品数据"""
     items_map = {}
     
